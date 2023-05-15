@@ -1,0 +1,31 @@
+Fixes:
+1. when updating info set the default values to what is in the profile currently;
+2. height input not working
+3. bmi popup on background
+
+To implement:
+1. Profile picture;
+2. email notifications;
+
+To make:
+1. Presentation - 10-15 слайда;
+ - diagram of classess
+ - diagram of database tables
+ - diagram of navigation
+
+code:
+1. main - 8 lines
+2. physicalphi - 97 lines
+3. login_page - 162 lines
+4. dashboard menu - 206 lines
+5. dashboard_page - 140 lines
+6. calendar_page - 150 lines
+7. personal_info_page - 320 lines
+8. statistics_page - 102 lines
+9. tools_page - 211 lines
+10. bmi_calc_page - 345 lines
+11. database_handling - 317 lines
+12. helpers - 56 lines
+13. templates_page - 68 lines
+
+2182 lines of code
